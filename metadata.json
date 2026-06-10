@@ -1,0 +1,6 @@
+{
+  "name": "Risky Store",
+  "description": "Premium digital and physical product marketplace catalog with direct WhatsApp ordering integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
